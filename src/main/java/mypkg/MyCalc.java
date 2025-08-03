@@ -24,7 +24,7 @@ public class MyCalc {
 	}
 	public void branch()
 	{
-		System.out.println("Hello from Dev Branch");
+		System.out.println("Hello from prod Branch");
 	}
 
 	public static void main(String[] args) {
